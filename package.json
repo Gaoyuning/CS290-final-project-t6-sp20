@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/Gaoyuning/CS290-final-project-t6-sp20#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
